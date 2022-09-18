@@ -1,0 +1,7 @@
+{
+  "name": "financial-education-app",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
